@@ -6,3 +6,7 @@ p {
   color: Aqua;
   text-transform: uppercase;
 }
+
+body{
+  background-color: blue;
+}
