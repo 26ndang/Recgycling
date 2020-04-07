@@ -1,12 +1,14 @@
 p {
   color: teal;
+  margin: 20px;
 }
 
 .title{
   color: Aqua;
   text-transform: uppercase;
+  margin: 20px;
 }
 
 body{
-  background-color: blue;
+  background-color: navy;
 }
