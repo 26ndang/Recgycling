@@ -2,7 +2,8 @@ p {
   color: navy;
   margin: 20px;
   font-size: 20px;
-  margin: 4px 6px
+  margin: 4px 6px;
+  min-width: 200px;
 }
 
 .title{
@@ -33,4 +34,10 @@ font-weight: 200;
   margin: 0 auto;  
 }
 
+.r{
+color: navy;
+}
 
+.nr{
+color: maroon;
+}
