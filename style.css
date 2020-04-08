@@ -5,6 +5,7 @@ p {
   margin: 4px 6px;
   min-width: 200px;
   overflow: scroll; 
+  font-family: Oswald;
 }
 
 .title{
