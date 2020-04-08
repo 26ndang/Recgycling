@@ -4,6 +4,7 @@ p {
   font-size: 20px;
   margin: 4px 6px;
   min-width: 200px;
+  overflow: scroll; 
 }
 
 .title{
