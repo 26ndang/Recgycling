@@ -16,6 +16,7 @@ text-transform: uppercase;
 a{
 border: 1px solid purple;
   color: purple;
+  font-size: 30px;
 }
 
 
@@ -57,7 +58,6 @@ font-size: 20px;
 .TOP{
 background-color: teal;
   color: purple;
-  font-size: 30px;
 
 
 }
