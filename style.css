@@ -9,6 +9,10 @@ p {
  font-family: 'Varela Round', sans-serif;
 }
 
+
+  
+}
+
 td{
 text-transform: uppercase;
 }
@@ -23,7 +27,7 @@ border: 1px solid purple;
 
 
 
-.title{
+h1{
   color: Aqua;
   text-transform: uppercase;
   margin: 20px;
