@@ -9,6 +9,10 @@ p {
  font-family: 'Varela Round', sans-serif;
 }
 
+td{
+text-transform: uppercase;
+}
+
 
 
 .title{
@@ -46,4 +50,5 @@ color: maroon;
 }
 form{
 font-size: 14px;
+  font-family: Oswald
 }
