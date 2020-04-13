@@ -2,7 +2,7 @@ p {
   color: navy;
   margin: 20px;
   font-size: 20px;
-  opacity: 0.5;
+  
   margin: 4px 6px;
   min-width: 200px;
   overflow: scroll; 
@@ -25,6 +25,7 @@ text-transform: uppercase;
 
 body{
   background-color: teal;
+  opacity: 0.5;
 }
 
 h2{
