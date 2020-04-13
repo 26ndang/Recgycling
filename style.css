@@ -54,10 +54,12 @@ font-weight: 200;
 
 .r{
 color: navy;
+  text-transform: uppercase;
 }
 
 .nr{
 color: maroon;
+    text-transform: uppercase;
 }
 form{
 font-size: 20;
