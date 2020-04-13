@@ -29,8 +29,6 @@ margin: 0 auto;
 
 .byline{
 text-transform: uppercase;
-border-bottom: 1px solid LightGrey;
-border-top: 1px solid LightGrey;
 color: DarkGrey;
 font-size: 14px;
 font-weight: 200; 
@@ -43,4 +41,7 @@ color: navy;
 
 .nr{
 color: maroon;
+}
+form{
+font-size: 14px;
 }
