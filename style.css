@@ -2,9 +2,7 @@ p {
   color: navy;
   margin: 20px;
   font-size: 20px;
-  
   margin: 4px 6px;
-  min-width: 200px;
   overflow: scroll; 
  font-family: 'Varela Round', sans-serif;
 }
@@ -15,6 +13,7 @@ p {
 
 td{
 text-transform: uppercase;
+  color: black;
 }
 
 a{
@@ -41,6 +40,7 @@ color: purple;
 font-size: 24px;
 margin: 0 auto; 
   text-align: center;
+   font-family: Oswald
 }
 
 .byline{
