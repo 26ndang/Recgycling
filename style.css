@@ -23,11 +23,6 @@ text-transform: uppercase;
   font-size: 40;
 }
 
-body{
-  background-color: teal;
-  opacity: 0.5;
-}
-
 h2{
 color: purple; 
 font-size: 24px;
