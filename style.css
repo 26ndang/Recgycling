@@ -13,6 +13,11 @@ td{
 text-transform: uppercase;
 }
 
+a{
+border: 1px solid purple;
+  color: purple;
+}
+
 
 
 .title{
