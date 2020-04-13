@@ -2,10 +2,11 @@ p {
   color: navy;
   margin: 20px;
   font-size: 20px;
+  opacity: 0.5;
   margin: 4px 6px;
   min-width: 200px;
   overflow: scroll; 
-  font-family: Oswald;
+ font-family: 'Varela Round', sans-serif;
 }
 
 .title{
