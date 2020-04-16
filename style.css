@@ -1,8 +1,8 @@
 p {
-  color: navy;
-  font-size: 20px;
+ color: navy;
+ font-size: 20px;
  font-family: 'Varela Round', sans-serif;
-  margin: 0px, 40px, 40px, 40px;
+ margin: 0px, 50px, 40px, 50px;
 }
 
 table{
@@ -11,10 +11,10 @@ align: center;
 
 li{
 color: navy;
-  font-size: 20px;
-  margin: 4px 6px;
- font-family: 'Varela Round', sans-serif;
-  margin: 40px;
+font-size: 20px;
+margin: 4px 6px;
+font-family: 'Varela Round', sans-serif;
+margin: 40px;
 }
 
 
@@ -23,11 +23,11 @@ color: navy;
 
 td{
 text-transform: uppercase;
-  color: black;
+color: black;
 }
 
 a{
-border: 1px solid purple;
+  border: 1px solid purple;
   color: purple;
   font-size: 30px;
   padding: 0px 20px;
