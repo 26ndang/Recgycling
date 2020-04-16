@@ -1,11 +1,10 @@
 p {
   color: navy;
-  margin: 20px;
   font-size: 20px;
   margin: 4px 6px;
   overflow: scroll; 
  font-family: 'Varela Round', sans-serif;
-  margin: 30px;
+  margin: 40px;
 }
 
 table{
