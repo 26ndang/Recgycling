@@ -50,13 +50,13 @@ margin: 0 auto;
    font-family: Oswald;
 }
 
-span{
+.byline{
 text-transform: uppercase;
 color: DarkGrey;
 font-size: 14px;
 font-weight: 200;  
- text-align: center;
-  font-family: cursive;
+text-align: center;
+font-family: cursive;
 }
 
 .r{
